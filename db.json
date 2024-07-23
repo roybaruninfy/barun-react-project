@@ -1,0 +1,34 @@
+{
+  "userDetails": [
+    {
+      "id": "8cd4",
+      "username": "raju",
+      "email": "barun.roy@infosys.com",
+      "phonenumber": "07063068331"
+    },
+    {
+      "id": "8a65",
+      "username": "fdffdfd",
+      "email": "barun.roy@infosys.com",
+      "phonenumber": "07063068331"
+    },
+    {
+      "id": "51b3",
+      "username": "Pijush",
+      "email": "barun.roy@infosys.com",
+      "phonenumber": "07063068331"
+    },
+    {
+      "id": "baf2",
+      "username": "Pijush",
+      "email": "barun.roy@infosys.com",
+      "phonenumber": "07063068331"
+    },
+    {
+      "id": "59d4",
+      "username": "shyam roy",
+      "email": "shyam@gmail.com",
+      "phonenumber": "1234545434"
+    }
+  ]
+}
